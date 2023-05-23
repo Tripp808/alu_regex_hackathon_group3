@@ -2,13 +2,14 @@ import re
 
 # Group 3 Sample input strings
 strings = [
-    "Movie Title (2021)",
+    "Avengers (2019)", 
+    "Aki and Paw Paw (2001)",
     "[Verse 1] some lyrics",
     "@username123",
     "ISBN 123-4-567-89012-3",
     "Why did the chicken cross the road? Because it wanted to",
     "Show Name S01E02: Episode Title",
-    "15-May-2023",
+    "17-May-2023",
     "#ABC123",
     "192.168.0.1",
 ]
