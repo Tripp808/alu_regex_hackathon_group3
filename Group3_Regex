@@ -6,8 +6,8 @@ import re
 strings = [
     "Avengers (2019)", 
     "Aki and Paw Paw (2001)",
-    "[Verse 1] some lyrics",
-    "@username123",
+    "[Verse 1] Crossed over like I'm Iverson on Jordan",
+    "@Tripp808",
     "ISBN 123-4-567-89012-3",
     "Why did the chicken cross the road? Because it wanted to",
     "Show Name S01E02: Episode Title",
