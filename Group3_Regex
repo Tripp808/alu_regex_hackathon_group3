@@ -16,30 +16,30 @@ strings = [
     "#ABC123",
     "192.168.0.1",
     #Song Lyrics:
-    "[Verse 1] I wanna hold your hand"
-    "[Verse 2] Just like a prayer"
+    "[Verse 1] I wanna hold your hand",
+    "[Verse 2] Just like a prayer",
     #Twitter Usernames:
-    "@johnsmith"
-    "@sarahjones"
+    "@johnsmith",
+    "@sarahjones",
     "@awesome_dev"
-    #ISBN numbers:
-    "ISBN 1-2-345-67890-1"
-    "ISBN 9-87-654321-0"
+    #ISBN numbers:,
+    "ISBN 1-2-345-67890-1",
+    "ISBN 9-87-654321-0",
     #Jokes:
-    "Why did the chicken cross the road? Because it wanted to get to the other side!"
-    "Why did the tomato turn red? Because it saw the salad dressing!"
+    "Why did the chicken cross the road? Because it wanted to get to the other side!",
+    "Why did the tomato turn red? Because it saw the salad dressing!",
     #TV Episode Titles:
-    "Friends S02E05: The One with Five Steaks and an Eggplant"
-    "Breaking Bad S03E10: Fly"
+    "Friends S02E05: The One with Five Steaks and an Eggplant",
+    "Breaking Bad S03E10: Fly",
     #Weirdly Formatted Dates:
-    "22-May-2023"
-    "01-Dec-2022"
+    "22-May-2023",
+    "01-Dec-2022",
     #Hex Color Codes:
-    "#FFA500"
-    "#00FF00"
+    "#FFA500",
+    "#00FF00",
     #IP Addresses:
-    "192.168.0.1"
-    "10.0.0.254"
+    "192.168.0.1",
+    "10.0.0.254",
 
 ]
 
@@ -94,4 +94,4 @@ print("Jokes:", jokes)
 print("Episode Titles:", episode_titles)
 print("Weird Dates:", weird_dates)
 print("Hex Colors:", hex_colors)
-print("IP Addresses:", ip_addresses)Song Lyrics:
+print("IP Addresses:", ip_addresses)
