@@ -23,4 +23,3 @@ This script demonstrates how to extract various data types using regular express
 2. Update the `strings` list with your input strings or replace it with your own data source.
 
 3. Run the script using Python:
-
