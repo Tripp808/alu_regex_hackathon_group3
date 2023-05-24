@@ -10,7 +10,7 @@ strings = [
     "[Verse 1] Crossed over like I'm Iverson on Jordan",
     "@Tripp808",
     "ISBN 123-4-567-89012-3",
-    "Why did the chicken cross the road? Because it wanted to",
+    "Why did the bug seem stressful? Because it adds up to all your problems!",
     "Show Name S01E02: Episode Title",
     "17-May-2021",
     "#ABC123",
@@ -49,7 +49,7 @@ movie_title_regex = r"^(.*?) \(\d{4}\)$"
 song_lyrics_regex = r"^\[Verse \d+] .*$"
 twitter_username_regex = r"^@[\w\d]+$"
 isbn_regex = r"^ISBN \d{3}-\d-\d{3}-\d{5}-\d$"
-joke_regex = r"^Why did the .*? \? Because.*$"
+joke_regex = r"^Why did the .*?\? Because.*$"
 episode_title_regex = r"^.*? S\d{2}E\d{2}: .*$"
 date_regex = r"^\d{2}-[A-Za-z]{3}-\d{4}$"
 hex_color_regex = r"^#[A-Fa-f1-9]{6}$"
