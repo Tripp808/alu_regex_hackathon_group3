@@ -5,14 +5,14 @@ import re
 # Group 3 Sample input strings
 strings = [
     "Avengers (2019)", 
-    "Aki and Paw Paw (2001)",
+    "Romeo and juliet (1996)",
     "365 Days (2020)",
     "[Verse 1] Crossed over like I'm Iverson on Jordan",
     "@Tripp808",
     "ISBN 123-4-567-89012-3",
     "Why did the bug seem stressful? Because it adds up to all your problems!",
     "Show Name S01E02: Episode Title",
-    "17-May-2021",
+    "12-March-1996",
     "#ABC123",
     "192.168.0.1",
     #Song Lyrics:
@@ -22,7 +22,7 @@ strings = [
     "@johnsmith",
     "@sarahjones",
     "@awesome_dev",
-    "@ajokkuech",
+    "@ajoshuamalong2",
     #ISBN numbers:,
     "ISBN 1-2-345-67890-1",
     "ISBN 9-87-654321-0",
